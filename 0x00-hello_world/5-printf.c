@@ -1,16 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - prints exactly with proper grammar, 
- * but the outcome is a piece of art,
+ * main - prints exactly "Programming is like building a multilingual puzzle
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
- 
-printf("%s\n","with proper grammar, but the outcome is a piece of art,");
+
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 
 }
-
