@@ -14,6 +14,7 @@ int main(void)
 	first_number = 0;
 	sum_of_even_valued_terms = 0;
 	second_number = 1;
+	count = 0;
 
 	while (count < 50)
 	{
