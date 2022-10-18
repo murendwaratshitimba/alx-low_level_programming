@@ -13,10 +13,10 @@ int main(void)
 	unsigned long first_number, second_number, next_number,
 	m, n, p, r;
 
-	count = 0;
+	count = 1;
 	first_number = 0;
 	second_number = 1;
-	for (count = 1; count <= 91; count++)
+
 	while (count <= 91)
 	{
 		next_number = first_number + second_number;
