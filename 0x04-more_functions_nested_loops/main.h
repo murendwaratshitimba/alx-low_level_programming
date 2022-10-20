@@ -5,5 +5,6 @@
 
 int _isupper(int alphabet);
 int _isdigit(int ascii_decimal_value);
+int mul(int a, int b);
 
 #endif /* MAIN_H */
