@@ -8,5 +8,6 @@ int _isdigit(int ascii_decimal_value);
 int mul(int a, int b);
 void print_numbers(void);
 int _putchar(char character);
+void print_most_numbers(void);
 
 #endif /* MAIN_H */
