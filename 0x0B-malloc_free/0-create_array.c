@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdlib.h>
 
 
 /**
@@ -26,7 +25,6 @@ if (array == NULL)
 {
 return (NULL);
 }
-
 
 for (index = 0; index < size; index++)
 {
