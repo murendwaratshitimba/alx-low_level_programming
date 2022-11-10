@@ -1,5 +1,7 @@
 #include "main.h"
 
+
+
 int find_len(char *str);
 char *create_xarray(int size);
 char *iterate_zeroes(char *str);
@@ -219,9 +221,9 @@ add_nums(final_prod, next_prod, size - 1);
 for (index = 0; final_prod[index]; index++)
 {
 if (final_prod[index] != 'x')
-_putchar(final_prod[index]);
+putchar(final_prod[index]);
 }
-_putchar('\n');
+putchar('\n');
 
 free(next_prod);
 free(final_prod);
