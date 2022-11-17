@@ -3,7 +3,7 @@
 
 /**
 * sum_them_all - sum of all its parameters
-
+*
 * @n: first parameter
 *
 * Return: 0 if n == 0
