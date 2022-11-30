@@ -91,6 +91,5 @@ free(*h);
 }
 
 h = NULL;
-
 return (nodes);
 }
